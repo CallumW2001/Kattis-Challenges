@@ -1,0 +1,14 @@
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\bin\Debug\net8.0\3D Printed Statues.exe
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\bin\Debug\net8.0\3D Printed Statues.deps.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\bin\Debug\net8.0\3D Printed Statues.runtimeconfig.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\bin\Debug\net8.0\3D Printed Statues.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\bin\Debug\net8.0\3D Printed Statues.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.AssemblyInfoInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.AssemblyInfo.cs
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.csproj.CoreCompileInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\refint\3D Printed Statues.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\3D Printed Statues.genruntimeconfig.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\3D Printed Statues\3D Printed Statues\obj\Debug\net8.0\ref\3D Printed Statues.dll
