@@ -1,0 +1,14 @@
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\bin\Debug\net8.0\A Cappella Recording.exe
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\bin\Debug\net8.0\A Cappella Recording.deps.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\bin\Debug\net8.0\A Cappella Recording.runtimeconfig.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\bin\Debug\net8.0\A Cappella Recording.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\bin\Debug\net8.0\A Cappella Recording.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.AssemblyInfoInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.AssemblyInfo.cs
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.csproj.CoreCompileInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\refint\A Cappella Recording.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\A Cappella Recording.genruntimeconfig.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A Cappella Recording\A Cappella Recording\obj\Debug\net8.0\ref\A Cappella Recording.dll
