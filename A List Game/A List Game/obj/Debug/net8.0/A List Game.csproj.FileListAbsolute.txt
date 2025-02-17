@@ -1,0 +1,14 @@
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\bin\Debug\net8.0\A List Game.exe
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\bin\Debug\net8.0\A List Game.deps.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\bin\Debug\net8.0\A List Game.runtimeconfig.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\bin\Debug\net8.0\A List Game.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\bin\Debug\net8.0\A List Game.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.AssemblyInfoInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.AssemblyInfo.cs
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.csproj.CoreCompileInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\refint\A List Game.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\A List Game.genruntimeconfig.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\A List Game\A List Game\obj\Debug\net8.0\ref\A List Game.dll
