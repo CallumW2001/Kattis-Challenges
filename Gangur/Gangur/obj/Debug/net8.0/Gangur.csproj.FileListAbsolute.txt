@@ -1,0 +1,14 @@
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\bin\Debug\net8.0\Gangur.exe
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\bin\Debug\net8.0\Gangur.deps.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\bin\Debug\net8.0\Gangur.runtimeconfig.json
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\bin\Debug\net8.0\Gangur.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\bin\Debug\net8.0\Gangur.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.AssemblyInfoInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.AssemblyInfo.cs
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.csproj.CoreCompileInputs.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\refint\Gangur.dll
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.pdb
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\Gangur.genruntimeconfig.cache
+C:\Users\cwilk\OneDrive\Desktop\kattis-stuff\Gangur\Gangur\obj\Debug\net8.0\ref\Gangur.dll
